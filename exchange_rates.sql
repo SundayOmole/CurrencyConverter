@@ -1,6 +1,6 @@
 -- This databse is a structure of the table to hold the exchange rate data
--- The actual SQL that is used is already been embeded in the php file.
--- The will enable maintainance a more efficient.
+-- The actual SQL that is used is already embeded in the php file.
+-- The will enable maintainance to be more efficient.
 
 -- Author: Festus Sunday OMOLE
 -- Email: omolesunday@gmail.com
